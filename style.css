@@ -1,0 +1,31 @@
+*{
+    padding:0px;
+    margin:0px;
+    background-color: black;
+}
+h2{
+    color:white;
+}
+#upper-portion{
+    display:flex;
+    flex-direction:column;
+    justify-content:center;
+    align-items:center;
+    margin:10px;
+}
+#search-field{
+    margin-top:10px;
+    padding:10px 100px;
+    background-color: aliceblue;
+    border-radius:4px;
+}
+.props{
+    height:50px;
+    width:40px;
+    border-radius:3px;
+    padding:1rem;
+}
+#container{
+    height:100%;
+    width:100%;
+}
